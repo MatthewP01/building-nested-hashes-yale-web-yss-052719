@@ -21,7 +21,7 @@ def bonus
   }
 
   #code your solution here:
-epic_tragedy[:capulet][:heroine][:name] = "Michael Jordan"
+epic_tragedy[:capulet][:heroine][:status] = "Michael Jordan"
 
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
